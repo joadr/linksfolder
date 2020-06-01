@@ -1,0 +1,27 @@
+#imCel0_00 {
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	height: auto;
+	width: 796px;
+}
+#form {
+	position: relative;
+	align: center;
+	height: auto;
+	width: 796;
+}
+#imObj0_00 .ff0 {font-family: Times New Roman; }
+#imObj0_00 .ff1 {font-family: Tahoma; }
+#imObj0_00 .ff2 {font-family: Tahoma; }
+#imObj0_00 .fc1 {color: #FFFFFF; }
+#imObj0_00 .fc2 {color: #000000; }
+#imObj0_00 .fs10 {font-size: 13px ; vertical-align: baseline; line-height: 16px ; }
+#imObj0_00 {padding: 0px; }
+#imCel0_00_Cont {
+	text-align: center;
+	height: auto;
+	overflow: hidden;
+}
+#imPage {position: relative; height: auto; clear:both;}
+.textarea {width:400px;height:100px;border: 1px dotted #000099;} 

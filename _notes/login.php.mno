@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Idiomas" value="name:id;datatype:int,name:espanol;datatype:blob,name:english;datatype:blob,name:portuguese;datatype:blob" />
+	<infoitem key="UD_idiomas" value="name:id;datatype:int,name:espanol;datatype:blob,name:english;datatype:blob,name:portuguese;datatype:blob" />
+	<infoitem key="UD_usuarios" value="name:id;datatype:int,name:name;datatype:blob,name:password;datatype:blob,name:email;datatype:blob,name:registerdate;datatype:timestamp,name:premiumfrom;datatype:timestamp,name:premiumto;datatype:timestamp,name:lastaccessdate;datatype:datetime,name:lastaccessip;datatype:blob" />
+</info>

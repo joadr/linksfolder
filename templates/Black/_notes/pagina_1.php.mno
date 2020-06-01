@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_viewfolder" value="name:id;datatype:int,name:cid;datatype:blob,name:uid;datatype:int,name:title;datatype:blob,name:links;datatype:blob,name:alert;datatype:int,name:password;datatype:blob,name:visitas;datatype:int" />
+	<infoitem key="UD_viewemail" value="name:id;datatype:int,name:email;datatype:blob" />
+</info>

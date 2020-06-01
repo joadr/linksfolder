@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_checkuser" value="name:name;datatype:blob" />
+	<infoitem key="UD_checkemail" value="name:email;datatype:blob" />
+</info>
